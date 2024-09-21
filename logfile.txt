@@ -1,0 +1,13 @@
+[Início do arquivo de Log]
+O arquivo de entrada foi lido e chamou a função pistas
+O arquivo de entrada foi lido e chamou a função insere_aviao
+O arquivo de entrada foi lido e chamou a função insere_aviao
+O arquivo de entrada foi lido e chamou a função insere_aviao
+O arquivo de entrada foi lido e chamou a função decolar
+O arquivo de entrada foi lido e chamou a função decolar
+O arquivo de entrada foi lido e chamou a função tempestade
+O arquivo de entrada foi lido e chamou a função neblina
+O arquivo de entrada foi lido e chamou a função turbulencia
+O arquivo de entrada foi lido e chamou a função iniciasimulacao
+ 🌧️  Aconteceu uma tempestade com o avião 41.
+ 🌫️  Aconteceu uma neblina com o avião 19.

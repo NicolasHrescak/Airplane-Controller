@@ -1,0 +1,3 @@
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/build/CMakeFiles/AirplaneController.dir
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/build/CMakeFiles/edit_cache.dir
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/build/CMakeFiles/rebuild_cache.dir

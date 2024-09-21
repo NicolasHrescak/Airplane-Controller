@@ -1,0 +1,110 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/eventos.h
+../include/log.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/log.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/interface.h
+../include/parser.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/parser.h
+../include/log.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/log.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/listas.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/log.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/parser.h
+../include/validacoes.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/validacoes.h
+../include/log.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/log.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/validacoes.h
+../include/eventos.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/eventos.h
+../include/listas.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/listas.h
+../include/log.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/log.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/src/eventos.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+../include/listas.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/listas.h
+../include/eventos.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/eventos.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/src/interface.c
+../include/interface.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/interface.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/src/listas.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+../include/listas.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/listas.h
+../include/eventos.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/eventos.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/src/log.c
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+../include/log.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/log.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/src/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+../include/interface.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/interface.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/src/parser.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+../include/parser.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/parser.h
+
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/src/validacoes.c
+stdio.h
+-
+string.h
+-
+../include/validacoes.h
+C:/Users/vagner/Desktop/Projetos/airplane controller/airplane-controller/include/validacoes.h
+
